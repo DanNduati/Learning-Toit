@@ -1,6 +1,6 @@
 //defining functions
-hi:
-    print "Hello there!"
+hi name:
+    print "Hello $name!"
 main:
-    hi
-    hi
+    hi "Daniel"
+    hi  "Nduati"
