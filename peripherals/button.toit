@@ -3,7 +3,7 @@ import gpio
 BUTTON ::= 21
 
 main:
-    button := gpio.Pin BUTTON --input
+    button := gpio.Pin BUTTON --input --pull_up
     while true:
         button.wait_for 1
         print "Button pressed"
