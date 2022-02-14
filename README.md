@@ -80,4 +80,4 @@ Running a program on a device does not allow the device to go into deep sleep si
 - [Toit-drivers](https://docs.toit.io/peripherals/drivers/driverslist)
 
 ## Gotchas I encountered
-I was unable to run scripts with the `--no-device` flag which seems to be an [issue](https://github.com/toitlang/toit/issues/434) the team is patching.
+I was unable to run scripts with the `--no-device` flag set which seems to be an [issue](https://github.com/toitlang/toit/issues/434) that the team is patching.
