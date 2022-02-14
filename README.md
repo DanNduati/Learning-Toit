@@ -6,7 +6,7 @@
 [Toit](https://toit.io/) is an open source, object-oriented programming language for the Internet of Things. 
 
 ## Developing with toit
-### 1. [Signup](https://toit.io/)
+### 1. [Signup](https://auth.toit.io/signup)
 ### 2. Provision the esp32
 Your ESP32 must be initially installed with the Toit firmware, before you can benefit from the Toit platform and all the features available.
 ```bash
