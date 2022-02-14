@@ -39,4 +39,4 @@ When claiming succeeds, the device can be viewed in the [list of devices](https:
 
 
 ## Gotchas I encountered
-I was unable to run scripts with the `--no-device` flag which seems to be an [issue](https://github.com/toitlang/toit/issues/434)
+I was unable to run scripts with the `--no-device` flag which seems to be an [issue](https://github.com/toitlang/toit/issues/434) the team is patching.
